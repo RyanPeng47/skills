@@ -1,1 +1,7 @@
 note-publisher/
+.DS_Store
+*.swp
+*.swo
+*~
+.env
+node_modules/
